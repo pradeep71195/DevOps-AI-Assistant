@@ -19,7 +19,7 @@ User → Streamlit UI → FastAPI → Fine-tuned LLM
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/devops-ai-assistant.git
+git clone https://github.com/pradeep71195/devops-ai-assistant.git
 cd devops-ai-assistant
 ```
 
