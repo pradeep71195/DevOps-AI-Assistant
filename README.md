@@ -49,3 +49,7 @@ streamlit run ui/chat.py
 - Transformers
 - Streamlit
 - Docker
+
+If you want access to the model, reach out to me on [LinkedIn](https://linkedin.com/in/pradeep-murugesan) or email me at pradeep71195@gmail.com
+
+
