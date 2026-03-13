@@ -1,0 +1,20 @@
+#API - backend API server
+fastapi
+uvicorn
+
+#LLM Inference - to run fine-tuned models
+transformers
+torch
+accelerate
+
+#LoRA adapters instead of merged models
+peft
+bitsandbytes
+
+#Environment Configuration
+python-dotenv
+pydantic
+
+#ChatUI
+streamlit
+requests
